@@ -274,6 +274,3 @@ M5StickS3は、センサ、画面、通信機能などを備えた小型のマ�
 
 - [M5Stack公式資料：StickS3](https://docs.m5stack.com/ja/core/StickS3)
 - [M5StickS3 講習会用GitHubリポジトリ](https://github.com/repositoryfiles/M5StickS3)
-- ① M5StickS3でMicroPythonを使うための環境構築（UIFlow2＋Thonny）
-- ② M5StickS3とMicroPythonで温湿度データロガーを作る（UIFlow2＋Thonny）
-- ③ M5StickS3とMicroPythonで振動測定とFFT解析（UIFlow2＋Thonny）
