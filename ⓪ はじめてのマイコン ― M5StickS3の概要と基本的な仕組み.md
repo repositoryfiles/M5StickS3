@@ -33,7 +33,7 @@
 | 出力 | 処理結果を外部に伝える | LED点灯、画面表示、モータ制御 |
 
 
-![alt text](image-4.png)
+<img width="1984" height="793" alt="image-4" src="https://github.com/user-attachments/assets/f34f1a79-ce93-4e2c-b7d0-7548e0b3d68a" />
 
 **［図：入力 → マイコン（処理） → 出力 の模式図］**
 
@@ -64,9 +64,9 @@ CPUやメモリだけでなく、液晶画面、ボタン、加速度・角速�
 そのため、外部に多くの電子部品を接続しなくても、さまざまな実験を行うことができます。
 
 
+<img width="1197" height="1197" alt="image-1" src="https://github.com/user-attachments/assets/358c3593-4c62-4a18-a711-df873549c6d8" />
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="1197" height="1197" alt="image-2" src="https://github.com/user-attachments/assets/1220beb0-a71f-4b67-84fb-fec69681c85d" />
 
 **［図：M5StickS3の外観写真と各部名称］**
 
@@ -163,7 +163,8 @@ M5StickS3のHY2.0-4P端子には、電源、GND、GPIO9、GPIO10が用意され�
 
 今回の温湿度測定では、外付けのENV IIIセンサをI2Cで接続します。
 
-![alt text](image-3.png)
+<img width="3840" height="2160" alt="image-3" src="https://github.com/user-attachments/assets/252d1dd8-3a93-4337-b581-cee86c2f5ecc" />
+
 **［図：M5StickS3とENV IIIの接続写真］**
 
 ## 5. マイコンを動かすプログラム
