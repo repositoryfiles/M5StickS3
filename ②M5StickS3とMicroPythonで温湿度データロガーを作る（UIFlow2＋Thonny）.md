@@ -93,7 +93,7 @@ import time
 # UIFlow2 / MicroPython
 #
 # Aボタンで測定開始・停止
-# 60秒間隔でCSV保存
+# 10秒間隔でCSV保存
 # =====================================
 
 INTERVAL_S = 10
