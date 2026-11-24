@@ -56,7 +56,7 @@ ENV IIIのSHT30は、I2C通信で温湿度データを取得できます。
 | I2C SDA | GPIO9 |
 | I2C SCL | GPIO10 |
 | SHT30アドレス | 0x44 |
-| 測定間隔 | 60秒 |
+| 測定間隔 | 10秒 |
 
 SHT30では、センサから取得したデータを次の式で温度と相対湿度に換算します。
 
@@ -93,10 +93,10 @@ import time
 # UIFlow2 / MicroPython
 #
 # Aボタンで測定開始・停止
-# 60秒間隔でCSV保存
+# 10秒間隔でCSV保存
 # =====================================
 
-INTERVAL_S = 60
+INTERVAL_S = 10
 
 # M5StickS3初期化
 M5.begin()
