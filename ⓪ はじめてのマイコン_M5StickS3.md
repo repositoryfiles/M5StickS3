@@ -153,7 +153,7 @@ Lチカとは、マイコンのGPIOを使ってLEDを点滅させる実験です
 - LEDには電流制限抵抗を直列に入れます。赤色LEDの順方向電圧を約2.0V、GPIOのHIGHを3.3Vとすると、330Ωで約4mAとなります。
 - **G5とGNDを直接接続しないでください。** 配線は電源を切った状態で行い、端子位置はM5StickS3の公式ピン配置図で確認してください。
 
-![alt text](ブレッドボード-1.jpg)
+<img width="918" height="1215" alt="ブレッドボード" src="https://github.com/user-attachments/assets/a7115b55-94b3-412a-ad0f-94dd976621e7" />
 
 **［図：M5StickS3のG5・GNDとブレッドボードを使ったLED回路］**
 
